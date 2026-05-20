@@ -1,4 +1,33 @@
 # angular-student-management
+# Student Management System
+
+A responsive and interactive Student Management System developed using Angular, HTML, CSS, and TypeScript. This project performs CRUD operations (Create, Read, Update, Delete) with Local Storage integration to store and manage student details efficiently.
+
+## Features
+- Add, edit, update, and delete student records
+- Real-time form validation
+- Required field validation with dynamic error messages
+- Email format verification
+- Gender selection support
+- Local Storage data persistence
+- Clean and responsive user interface
+
+## Technologies Used
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Local Storage
+
+## Functionalities
+- Student Registration Form
+- Validation Handling
+- CRUD Operations
+- Data Storage in Browser
+- Responsive Frontend Design
+
+## Project Outcome
+This project demonstrates frontend development concepts in Angular including form handling, two-way data binding, validation, component-based architecture, and Local Storage management.
 A responsive Student Management System built with Angular featuring CRUD operations, Local Storage integration, real-time form validation, email verification, dynamic error handling, and an elegant user interface using HTML, CSS, and TypeScript.
 <img width="1168" height="551" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/5f69d1a8-676b-4d0b-8a64-f1270eff0549" />
 <img width="1189" height="557" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/f24cfe78-ecef-4524-8e88-b51d9e0439a0" />
